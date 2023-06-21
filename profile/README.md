@@ -13,8 +13,8 @@ _(We also threw in the contributing docs for that repo in case you are intereste
 
 | repo                                                                            	| description                                                                          	| docs                                                  	| contributing docs                                                  	|
 |---------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------	|-------------------------------------------------------	|--------------------------------------------------------------------	|
-| [nodestream-proj/nodestream](https://github.com/nodestream-proj/nodestream)     	| The core of the project. `nodestream` is a declarative graph database ETL framework. 	| [here](https://nodestream-proj.github.io/nodestream/) 	| [here](https://nodestream-proj.github.io/nodestream/contributing/) 	|
-| [nodestream-proj/neo4j-akamai](https://github.com/nodestream-proj/neo4j-akamai) 	| Ingest and Graph Akamai Data using `nodestream`                                      	| TODO                                                  	| TODO                                                               	|
+| [nodestream](https://github.com/nodestream-proj/nodestream)     	| The core of the project. `nodestream` is a declarative graph database ETL framework. 	| [here](https://nodestream-proj.github.io/nodestream/) 	| [here](https://nodestream-proj.github.io/nodestream/contributing/) 	|
+| [neo4j-akamai](https://github.com/nodestream-proj/neo4j-akamai) 	| Ingest and Graph Akamai Data using `nodestream`                                      	| TODO                                                  	| TODO                                                               	|
 ### Graph Database Resources
 - [What is a Graph Database by neo4j](https://neo4j.com/developer/graph-database/)
 - [What is a Graph Database by AWS](https://aws.amazon.com/nosql/graph/)
