@@ -1,21 +1,20 @@
-# Hi there 👋
+# Nodestream
+> Nodestream is a declarative framework for Building, Maintaining, and Anaylzing Data in a Graph Database.
 
 ## 🙋‍♀️ A short introduction 
-`nodestream-proj` is a all about faciliating the power of Graph Databases. The central library, `nodestream` is a framework for declarative ETL to Graph Databases.  
+`nodestream-proj` is a all about faciliating the power of Graph Databases. 
+The central library, `nodestream` focuses on delcarative ingestion into graph databases. 
+On top of that, we have an ecosystem of plugins to extend nodestream with optional (yet awesome) additional functionality. 
+Plugins range from simple developer features like adding support for `.env` files all the way to complete pipelines that allow you to ingest data from different places. 
 
-## 📖 Useful Resources
+## 📖 New to Graphs?
 
-### Our Repos
-Here is a table outlining the indidual repos of the project and how to read their docs. 
+Check out these links to get an idea: 
 
-_(We also threw in the contributing docs for that repo in case you are interested 😉)_
-
-
-| repo                                                                            	| description                                                                          	| docs                                                  	| contributing docs                                                  	|
-|---------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------	|-------------------------------------------------------	|--------------------------------------------------------------------	|
-| [nodestream](https://github.com/nodestream-proj/nodestream)     	| The core of the project. `nodestream` is a declarative graph database ETL framework. 	| [here](https://nodestream-proj.github.io/nodestream/) 	| [here](https://nodestream-proj.github.io/nodestream/contributing/) 	|
-| [nodestream-plugin-akamai](https://github.com/nodestream-proj/nodestream-plugin-akamai) 	| Ingest and Graph Akamai Data using `nodestream`                                      	| TODO                                                  	| TODO                                                               	|
-### Graph Database Resources
 - [What is a Graph Database by neo4j](https://neo4j.com/developer/graph-database/)
 - [What is a Graph Database by AWS](https://aws.amazon.com/nosql/graph/)
 - [17 Uses Cases for Graph Databases by Oracle](https://www.oracle.com/a/ocom/docs/graph-database-use-cases-ebook.pdf)
+
+## Interested? 
+
+Check out our [docs](https://nodestream-proj.github.io/docs/) to get started and our [roadmap](https://github.com/orgs/nodestream-proj/projects/2) to see where we're headed 🚀
