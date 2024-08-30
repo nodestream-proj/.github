@@ -1,5 +1,5 @@
 # Nodestream
-> Nodestream is a declarative framework for Building, Maintaining, and Anaylzing Data in a Graph Database.
+> Nodestream is a declarative framework for Building, Maintaining, and Analyzing Data in a Graph Database.
 
 ## 🙋‍♀️ A short introduction 
 `nodestream-proj` is a all about faciliating the power of Graph Databases. 
